@@ -10,7 +10,7 @@ int main()
 	printf("next \n");
 	printf("end");
 	printf("last");
-	printf("999 gwwwit 111 installed11---");
+	printf("한글 999 gwwwit 111 installed11---");
 	
     return 0;
 }

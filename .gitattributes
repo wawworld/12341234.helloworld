@@ -1,16 +1,8 @@
 ###############################################################################
 # Set default behavior to automatically normalize line endings.
 ###############################################################################
-#* text=auto
-*.c crlf diff
-*.cc crlf diff
-*.cxx crlf diff
-*.cpp diff
-*.c++ crlf diff
-*.hpp crlf diff
-*.h crlf diff
-*.h++ crlf diff
-*.hh crlf diff
+* text=auto
+
 ###############################################################################
 # Set default behavior for command prompt diff.
 #
@@ -19,8 +11,8 @@
 # Note: This is only used by command line
 ###############################################################################
 #*.cs     diff=csharp
-#*.c     diff=csource
-#*.cpp     -merge -text
+*.c     diff=csource
+*.cpp     -merge -text
 
 ###############################################################################
 # Set the merge driver for project and solution files
