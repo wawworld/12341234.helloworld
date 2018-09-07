@@ -14,6 +14,16 @@
 *.c     diff=csource
 *.cpp     -merge -text
 
+*.c crlf diff
+*.cc crlf diff
+*.cxx crlf diff
+*.cpp crlf diff
+*.c++ crlf diff
+*.hpp crlf diff
+*.h crlf diff
+*.h++ crlf diff
+*.hh crlf diff
+
 ###############################################################################
 # Set the merge driver for project and solution files
 #
