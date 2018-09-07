@@ -5,7 +5,7 @@
 *.c crlf diff
 *.cc crlf diff
 *.cxx crlf diff
-*.cpp crlf diff
+*.cpp diff
 *.c++ crlf diff
 *.hpp crlf diff
 *.h crlf diff
