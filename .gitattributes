@@ -12,7 +12,7 @@
 ###############################################################################
 #*.cs     diff=csharp
 *.c     diff=csource
-*.cpp     -merge -text
+# *.cpp     -merge -text
 
 *.c crlf diff
 *.cc crlf diff
